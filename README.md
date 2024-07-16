@@ -1,4 +1,4 @@
-# Myngram(OnGoing)
+# Myngram(Ongoing project)
 
 Myngram is a vibrant social media and fashion platform designed to connect users, influencers, and brands through engaging content and seamless collaboration.
 
@@ -56,7 +56,6 @@ We welcome contributions to Myngram! To contribute:
 4. Push to the branch: `git push origin feature/NewFeature`
 5. Submit a pull request.
 
-Please follow our [Code of Conduct](link-to-code-of-conduct.md) and [Contributing Guidelines](link-to-contributing.md).
 
 ## License
 
