@@ -34,7 +34,7 @@ Myngram is a vibrant social media and fashion platform designed to connect users
 
 ## Technologies Used
 
-- **Frontend**: TypeScript, React, Tailwind CSS
+- **Frontend**: TypeScript,Next.js, Tailwind CSS
 - **Build Tool**: Vite
 
 ## Getting Started
@@ -55,24 +55,6 @@ We welcome contributions to Myngram! To contribute:
 3. Commit your changes: `git commit -am 'Add new feature'`
 4. Push to the branch: `git push origin feature/NewFeature`
 5. Submit a pull request.
-
-
-## License
-
-This project is licensed under the [MIT License](link-to-license.md).
-
-## Contact
-
-Have questions or feedback? Reach out to us at contact@myngram.com or visit our website [myngram.com](https://www.myngram.com).
-
-## Acknowledgements
-
-We would like to thank the following contributors for their valuable input and support:
-- List of contributors or acknowledgments.
-
----
-
-Feel free to customize the sections, replace placeholders with actual links and details, and add more specific information as per your project's requirements. This README template provides a structured outline to showcase the key features, technologies used, and how to get started with your social media and fashion platform, Myngram.
 
 
 # React + TypeScript + Vite
